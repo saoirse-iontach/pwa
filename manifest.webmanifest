@@ -3,7 +3,7 @@
   "short_name": "OS.js",
   "description": "standalone OS.js v2023.09.09",
   "start_url": "./?utm_source=web_app_manifest",
-  "display": "browser",
+  "display": "minimal-ui",
   "backgroud-color": "rgb(87, 42, 121)",
   "theme-color": "#444e9b",
   "icons": [
